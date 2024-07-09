@@ -1,4 +1,4 @@
-# ML_Project---House_Price_Prediction
+# ML_Project - House_Price_Prediction
 
 This project predicts house prices using the classic Boston Housing Dataset and the XGBoost Regressor, a powerful machine learning algorithm known for its accuracy and efficiency. 
 
